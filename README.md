@@ -66,7 +66,7 @@ Below is a preview of the interactive dashboard created in Power BI:
 ---
 
 ## 👤 Author  
-*Rahmatullah Yakubu (Tech Mum Chronicles)*  
+*Rahmatullah Onyinoyi Yakubu (Tech Mum Chronicles)*  
 - 🌐 [GitHub Profile](https://github.com/Rahmatullah-OY)  
 
 ---
